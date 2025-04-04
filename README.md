@@ -18,8 +18,11 @@ This project applies **Multiple Linear Regression** to predict **successful star
 
 ## 📂 Project Structure  
 📦 Multiple_Linear_Regression
+
 ┣ 📜 Successful_Startups.csv (Dataset)
+
 ┣ 📜 multiple_linear_regression.ipynb (Google Colab Notebook)
+
 ┣ 📜 README.md (This file)
 
 bash

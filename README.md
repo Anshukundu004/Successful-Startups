@@ -3,8 +3,6 @@
 ## 📌 Project Overview  
 This project applies **Multiple Linear Regression** to predict **successful startup outcomes** based on various **business factors**. The model uses **One-Hot Encoding** to handle categorical data and is trained on a real-world dataset.  
 
-## Link:https://colab.research.google.com/drive/108nNUIvqEc6MGncSRCydegAhpvrCihCP?usp=sharing
-
 ## 🚀 Features  
 - Implements **Multiple Linear Regression** for prediction  
 - Uses **One-Hot Encoding** for categorical feature handling  
@@ -29,12 +27,9 @@ Copy
 Edit
 
 ## 📌 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-Open the Google Colab Notebook.
+1.Access the model: https://colab.research.google.com/drive/108nNUIvqEc6MGncSRCydegAhpvrCihCP?usp=sharing
 
-Upload the Successful_Startups.csv dataset if required.
+Open the Google Colab Notebook.
 
 Run the notebook step by step to train and evaluate the model.
 

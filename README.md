@@ -37,6 +37,7 @@ Open the Google Colab Notebook.
 Run the notebook step by step to train and evaluate the model.
 
 📊 Results
+
 The model predicts startup success based on business investments and location.
 
 Visualization of actual vs. predicted values helps assess accuracy.

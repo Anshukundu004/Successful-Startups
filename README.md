@@ -25,9 +25,7 @@ This project applies **Multiple Linear Regression** to predict **successful star
 
 ┣ 📜 README.md (This file)
 
-bash
-Copy
-Edit
+
 
 ## 📌 How to Use  
 1.Access the model: https://colab.research.google.com/drive/108nNUIvqEc6MGncSRCydegAhpvrCihCP?usp=sharing

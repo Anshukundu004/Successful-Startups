@@ -1,9 +1,9 @@
- #📈 Multiple Linear Regression - Predicting Startup Success  
+ ## 📈 Multiple Linear Regression - Predicting Startup Success  
 
 ## 📌 Project Overview  
 This project applies **Multiple Linear Regression** to predict **successful startup outcomes** based on various **business factors**. The model uses **One-Hot Encoding** to handle categorical data and is trained on a real-world dataset.  
 
-#Link:https://colab.research.google.com/drive/108nNUIvqEc6MGncSRCydegAhpvrCihCP?usp=sharing
+## Link:https://colab.research.google.com/drive/108nNUIvqEc6MGncSRCydegAhpvrCihCP?usp=sharing
 
 ## 🚀 Features  
 - Implements **Multiple Linear Regression** for prediction  
@@ -45,8 +45,8 @@ Visualization of actual vs. predicted values helps assess accuracy.
 
 📜 License
 This project is open-source. Feel free to modify and improve it!
-## Contact 📧
 
+## Contact 📧
 * Anshu Kundu
 * anshu.kundu2004@gmail.com
 
